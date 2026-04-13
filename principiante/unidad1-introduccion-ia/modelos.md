@@ -7,7 +7,7 @@ Esta es una guía optimizada para explorar, descargar y ejecutar modelos de leng
 El lugar principal para obtener modelos es **Hugging Face**. Es el "GitHub" de la IA.
 
 * **[Hugging Face](https://huggingface.co/models):** Busca modelos por etiquetas como `Text Generation`, `Text-to-Image` o `Fill-Mask`. 
-* **[Civitai](https://civitai.com/):** Si buscas modelos de generación de imágenes (Stable Diffusion), este es el sitio principal para encontrar "Checkpoints" y "LoRAs" específicos.
+* **[comfy](https://www.comfy.org/):** Si buscas modelos de generación de imágenes (Stable Diffusion), este es el sitio principal para encontrar "Checkpoints" y "LoRAs" específicos.
 * **[ModelScope](https://modelscope.cn/):** La alternativa de Alibaba, excelente para modelos desarrollados en Asia que a veces tardan en llegar a Hugging Face.
 
 ---
