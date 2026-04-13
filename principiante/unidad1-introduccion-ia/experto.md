@@ -171,4 +171,3 @@ Reduce precisión numérica de modelo, disminuyendo tamaño y aumentando velocid
 - **Edge devices**: Móviles, IoT requieren modelos comprimidos. TensorFlow Lite, ONNX Runtime Mobile, Core ML (Apple).
 - **GPU acceleration**: NVIDIA CUDA, cuDNN, TensorRT optimiza para hardware NVIDIA. AMD ROCm para AMD GPUs.
 - **CPU optimization**: Intel OpenVINO, ONNX Runtime optimiza para CPUs modernas.
-- **Specialized hardware**: TPUs de Google, Habana de Intel, neuromorphic chips
