@@ -1,7 +1,7 @@
 # Curso Completo de Inteligencia Artificial (IA)
 
 - Realizado por: Hedy Sánchez
-- Profesora: Maillet Altube
+- Profesora: Maille Altuve
 
 Este repositorio contiene un curso completo de Inteligencia Artificial organizado por niveles: principiante, intermedio y experto. Incluye teoría didáctica dictada, ejemplos de código explicados, instrucciones de uso, enlaces a videos en español y modelos de IA gratuitos y descargables.
 
