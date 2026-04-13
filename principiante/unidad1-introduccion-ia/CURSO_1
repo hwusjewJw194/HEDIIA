@@ -1,0 +1,123 @@
+El usuario quiere información completa sobre el Nivel Principiante de IA. Quiere que mantenga la misma sintaxis/formato que usé antes (con los encabezados, listas, etc.). Debo proporcionar información detallada sobre cada tema mencionado:
+
+1. Fundamentos de Python y matemáticas para IA
+2. Regresión, clasificación, clustering
+3. Perceptrón y redes neuronales simples
+4. Primeros proyectos con datasets sencillos
+
+Voy a mantener el formato markdown con encabezados H2 y H3, listas, y estructura clara como lo hice antes.# Este trabajo fue realizado por Hedy Sánchez para la clase de IA de la profesora Maillet Altube
+
+## Nivel Principiante (principiante/)
+
+El nivel principiante proporciona las bases fundamentales necesarias para comenzar en el mundo de la Inteligencia Artificial. Este nivel se enfoca en desarrollar habilidades técnicas esenciales y comprensión de conceptos clave que permitirán avanzar hacia niveles más complejos.
+
+### Fundamentos de Python y matemáticas para IA
+
+#### Python como lenguaje base para IA
+
+**Python** es el lenguaje de programación más utilizado en el desarrollo de sistemas de IA. Su sintaxis simple, librerías especializadas y comunidad activa lo convierten en la opción ideal para principiantes.
+
+- **Estructuras de datos**: Listas, tuplas, diccionarios y conjuntos para organizar información.
+- **Control de flujo**: Bucles (for, while) y condicionales (if, else) para lógica de programación.
+- **Funciones y módulos**: Organización de código reutilizable y uso de librerías externas.
+- **Librerías principales**: NumPy (operaciones numéricas), Pandas (manipulación de datos) y Matplotlib (visualización).
+
+#### Matemáticas para IA
+
+La matemática es fundamental para entender cómo funcionan los algoritmos de IA:
+
+- **Álgebra lineal**: Operaciones con vectores y matrices, esenciales para procesamiento de datos y cálculos en redes neuronales.
+- **Cálculo**: Derivadas e integrales utilizadas en optimización y entrenamiento de modelos.
+- **Probabilidad y estadística**: Conceptos de distribuciones, media, desviación estándar y correlación para análisis de datos.
+- **Geometría**: Distancias y espacios vectoriales utilizados en clustering y clasificación.
+
+### Regresión, clasificación y clustering
+
+#### Regresión
+
+La regresión es una técnica de aprendizaje supervisado que predice valores continuos basándose en datos históricos.
+
+- **Regresión lineal**: Modelo simple que encuentra la relación lineal entre variables independientes y una variable dependiente.
+- **Regresión polinomial**: Extensión de regresión lineal para relaciones más complejas usando polinomios.
+- **Métrica de evaluación**: Error cuadrático medio (MSE) y coeficiente de determinación (R²) para medir precisión.
+- **Casos de uso**: Predicción de precios, temperaturas, ingresos futuros.
+
+#### Clasificación
+
+La clasificación es una técnica de aprendizaje supervisado que asigna datos a categorías predefinidas.
+
+- **Clasificación binaria**: Predicción entre dos clases (ejemplo: spam o no spam).
+- **Clasificación multiclase**: Predicción entre más de dos clases (ejemplo: tipos de flores, dígitos).
+- **Algoritmos básicos**: K-Vecinos más Cercanos (KNN), Árbol de decisión, Naive Bayes.
+- **Métricas de evaluación**: Precisión, recall, F1-score y matriz de confusión.
+- **Casos de uso**: Diagnóstico médico, detección de fraude, categorización de emails.
+
+#### Clustering (Agrupamiento)
+
+El clustering es una técnica de aprendizaje no supervisado que agrupa datos similares sin etiquetas previas.
+
+- **K-Means**: Algoritmo que divide datos en K grupos basándose en distancias a centroides.
+- **Clustering jerárquico**: Crea una estructura de árbol que muestra relaciones entre grupos.
+- **DBSCAN**: Identifica clusters de formas arbitrarias basándose en densidad de puntos.
+- **Métricas de evaluación**: Coeficiente de silueta, índice de Davies-Bouldin, inercia.
+- **Casos de uso**: Segmentación de clientes, análisis de patrones, organización de datos.
+
+### Perceptrón y redes neuronales simples
+
+#### El Perceptrón
+
+El perceptrón es la unidad básica de las redes neuronales y el punto de inicio para entender el aprendizaje profundo.
+
+- **Estructura**: Recibe múltiples entradas, aplica pesos a cada una, suma los valores y aplica una función de activación.
+- **Función de activación**: Introduce no-linealidad al modelo. Las más simples son escalón y sigmoide.
+- **Entrenamiento**: Ajusta pesos iterativamente para minimizar errores de predicción.
+- **Limitaciones**: Solo resuelve problemas linealmente separables.
+- **Aplicación**: Clasificación binaria en problemas simples.
+
+#### Redes Neuronales Simples
+
+Las redes neuronales simples (perceptrones multicapa) extienden el perceptrón añadiendo capas intermedias.
+
+- **Arquitectura**: Capa de entrada, capas ocultas y capa de salida.
+- **Funciones de activación**: ReLU, sigmoid, tanh para permitir aprendizaje de patrones complejos.
+- **Backpropagation**: Algoritmo que ajusta pesos propagando errores hacia atrás a través de la red.
+- **Hiperparámetros**: Número de capas, neuronas por capa, tasa de aprendizaje, número de épocas.
+- **Casos de uso**: Clasificación y regresión en problemas moderadamente complejos.
+
+### Primeros proyectos con datasets sencillos
+
+#### Características de proyectos principiante
+
+Los primeros proyectos utilizan datasets públicos, bien documentados y de tamaño manejable para facilitar el aprendizaje.
+
+- **Datasets recomendados**:
+  - **Iris**: Clasificación de tipos de flores con 150 muestras y 4 características.
+  - **Digits**: Reconocimiento de dígitos manuscritos (0-9) con 1,797 imágenes.
+  - **Wine**: Clasificación de tipos de vino con 178 muestras.
+  - **Boston Housing**: Predicción de precios de viviendas con 506 muestras.
+  - **MNIST**: Conjunto ampliado de dígitos con 70,000 imágenes (introducción a visión por computadora).
+
+#### Estructura típica de un proyecto
+
+1. **Carga y exploración de datos**: Entender la estructura, tipos de datos, valores faltantes y distribuciones.
+2. **Preparación de datos**: Limpieza, normalización y división en conjuntos de entrenamiento y prueba.
+3. **Selección del modelo**: Elegir el algoritmo apropiado según el problema.
+4. **Entrenamiento**: Ajustar el modelo con los datos de entrenamiento.
+5. **Evaluación**: Medir el desempeño usando métricas apropiadas.
+6. **Visualización**: Graficar resultados y patrones encontrados.
+
+#### Ejemplos de proyectos prácticos
+
+- **Predicción de precios de casas**: Usar regresión lineal para estimar precios basándose en características.
+- **Clasificación de iris**: Utilizar KNN o árbol de decisión para categorizar tipos de flores.
+- **Segmentación de clientes**: Aplicar K-Means para agrupar clientes por comportamiento.
+- **Detección de fraude básico**: Clasificar transacciones como fraude o legítimas usando técnicas simples.
+- **Red neuronal simple para dígitos**: Entrenar un perceptrón multicapa para reconocer dígitos manuscritos.
+
+#### Herramientas y librerías
+
+- **Scikit-learn**: Librería principal para algoritmos clásicos de Machine Learning.
+- **TensorFlow/Keras**: Framework para construcción de redes neuronales con interfaz amigable.
+- **Pandas**: Manipulación y análisis de datos.
+- **Matplotlib y Seaborn**: Visualización de datos y resultados.
+- **Jupyter Notebook**: Entorno interactivo para desarrollo y documentación de proyectos.
