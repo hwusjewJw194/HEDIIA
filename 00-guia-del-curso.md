@@ -55,7 +55,7 @@ Instalación y entorno de trabajo
 
    pip install --upgrade pip
    pip install numpy scipy pandas matplotlib scikit-learn jupyterlab
-   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117  # o versión CPU
+   pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu117](https://github.com/pytorch/pytorch)  # o versión CPU
    pip install transformers datasets huggingface-hub
    pip install seaborn tqdm notebook
 
