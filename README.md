@@ -7,8 +7,8 @@ Este repositorio contiene un curso completo de Inteligencia Artificial organizad
 
 ## Navegación
 - [Guía del Curso](00-guia-del-curso.md)
-- [Nivel Principiante](pincipiante.md)
-- [Nivel Intermedio](intermedio.md)
+- [Nivel Principiante](pincipiante/pincipiante.md)
+- [Nivel Intermedio](pincipiante/intermedio.md)
 - [Nivel Experto](experto/)
 - [Modelos y recursos descargables](modelos/)
 - [Recursos adicionales](recursos/)
