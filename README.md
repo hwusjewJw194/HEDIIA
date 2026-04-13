@@ -10,7 +10,7 @@ Este repositorio contiene un curso completo de Inteligencia Artificial organizad
 - [Nivel Principiante](principiante/unidad1-introduccion-ia/pincipiante.md)
 - [Nivel Intermedio](principiante/unidad1-introduccion-ia/intermedio.md)
 - [Nivel Experto](principiante/unidad1-introduccion-ia/experto.md)
-- [Modelos y recursos descargables](modelos/)
+- [Modelos y recursos descargables](principiante/unidad1-introduccion-ia/modelos.md)
 - [Recursos adicionales](principiante/unidad1-introduccion-ia/recursos.md)
 
 ---
