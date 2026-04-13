@@ -1,12 +1,3 @@
-El usuario quiere que expanda este contenido manteniendo el mismo formato de Markdown.
-
-Voy a expandir el contenido de manera significativa, agregando más información sobre:
-- La introducción (más detalles históricos y contexto)
-- Las principales áreas de estudio (expandir cada punto)
-- Las aplicaciones (expandir con más ejemplos y casos de uso)
-
-Mantendré el formato Markdown consistente con lo que el usuario proporcionó.# Este trabajo fue realizado por Hedy Sánchez para la clase de IA de la profesora Maillet Altube
-
 ## Introducción a la Inteligencia Artificial
 
 La Inteligencia Artificial (IA) es un campo de la informática que busca el desarrollo de sistemas capaces de realizar tareas que, tradicionalmente, requieren de la inteligencia humana. Esto incluye procesos como el aprendizaje, el razonamiento, la percepción y la resolución de problemas.
