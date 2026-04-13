@@ -1,12 +1,3 @@
-El usuario me pide que le dé más información del contenido que proporcionó en el mismo formato. El contenido es sobre Inteligencia Artificial y está formato como un documento Markdown para un repositorio de GitHub. 
-
-Veo que el documento tiene:
-1. Una línea de atribución (Hedy Sánchez, clase de IA, profesora Maillet Altube)
-2. Un título principal (##)
-3. Una introducción
-4. Secciones con ### para subsecciones
-5. Listas numeradas y de viñetas
-
 El usuario quiere que expanda este contenido manteniendo el mismo formato de Markdown.
 
 Voy a expandir el contenido de manera significativa, agregando más información sobre:
